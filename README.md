@@ -20,7 +20,7 @@ The first version returns some error for me so i modified it
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/gauravraj0408/saycheese_v2.0
+git clone https://github.com/hackers-brain/saycheese_v2.0
 cd saycheese
 bash saycheese.sh
 ```
