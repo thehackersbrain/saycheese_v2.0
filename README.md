@@ -20,9 +20,24 @@ The first version returns some error for me so i modified it
 
 ## Installing (Kali Linux/Termux):
 
+clone this repo
 ```
 git clone https://github.com/hackers-brain/saycheese_v2.0
-cd saycheese
+```
+change directory to saycheese_v2.0
+```
+cd saycheese_v2.0
+```
+Note : Ngrok should be downloaded and configured with authtoken in order to link link over WAN
+        ngrok should be in saycheese_v2.0 folder
+
+now run the script
+```
 bash saycheese.sh
 ```
+# Credits
+**Author : [HackerBrain](https://github.com/hackers-brain/)**
 
+**HackersBrain : [HackTheBox](https://www.hackthebox.eu/profile/303514)**
+
+**HackersBrain : [TryHackMe](https://tryhackme.com/p/hackersbrain)**
